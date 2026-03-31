@@ -1,0 +1,9 @@
+./node_modules
+/dist
+/logs
+*.log
+*.tmp
+*.cache
+*.pid
+*.seed
+*.pid.lock          
